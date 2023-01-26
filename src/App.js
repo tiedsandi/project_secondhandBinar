@@ -5,7 +5,7 @@ import {
   Route,
   Navigate,
 } from "react-router-dom";
-import { ThemeProvider } from "@mui/material";
+import { ThemeProvider, Typography } from "@mui/material";
 import { Theme } from "./Theme";
 
 import Home from "./pages/Home";
@@ -26,6 +26,7 @@ function App() {
   return (
     <ThemeProvider theme={Theme}>
       <div className="App">
+        <Typography fontSize={18} textAlign={'center'} color={'red'}>EN: The API backend is no longer available. || ID: Backend API tidak lagi tersedia. </Typography>
         <Router>
           <Routes>
 
@@ -47,7 +48,7 @@ function App() {
           </Routes>
         </Router>
       </div>
-    </ThemeProvider>
+    </ThemeProvider >
   );
 }
 

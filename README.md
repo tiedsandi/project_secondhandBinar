@@ -19,7 +19,8 @@ Secondhand is a marketplace app for buying and selling pre-owned items in good c
 
 ## Demo
 
-https://secondhand-2022.netlify.app/
+- [live](https://secondhand-2022.netlify.app/)
+- [video](https://www.youtube.com/watch?v=eB3ACmA-Y48&feature=youtu.be)
 
 ## Screenshots
 

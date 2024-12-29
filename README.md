@@ -31,7 +31,7 @@ Secondhand is a marketplace app for buying and selling pre-owned items in good c
 Clone the project
 
 ```bash
-  git clone https://github.com/tiedsandi/project-secondhandBinar
+  git clone https://github.com/tiedsandi/project_secondhandBinar
 ```
 
 Go to the project directory
